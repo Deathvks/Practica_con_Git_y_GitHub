@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Club
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Club\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Club()
+comment2.params=nombre\ hob
+comment2.target=void\ addPersona(java.lang.String,\ java.util.HashSet)
+comment3.params=cual
+comment3.target=int\ personasConHobby(java.lang.String)
+comment4.params=
+comment4.target=void\ printClub()
+comment5.params=cual
+comment5.target=java.util.HashSet\ borrarPersonasConHobby(java.lang.String)
+numComments=6
